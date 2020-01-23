@@ -1,0 +1,16 @@
+//Metodos http: get , post , put, delete
+
+/**
+ * Tipos de PArametros:
+ * 
+ * Query Params: request.query(Filtros, ordenação, paginação,....)
+ * Route parrems (put e delete): requert.params(Identificar um recurso na alteração ou remoção)
+ * Body: request.body(Dados prara a criação ou alteração de um registro)
+ */
+
+
+
+
+ funções do controller
+
+ index(Lista), show(unico), store(Cadastrar), update(alterar), destroy(deletar)
