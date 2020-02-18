@@ -7,23 +7,16 @@ Localiza Devs
 <h2 align="center">Aplicação para localização de devs, ofertada na semana omnistack 10</h2>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Sthaynny/conversor_de_moeda-em-flutter">
-  <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Sthaynny/localiza_devs">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Sthaynny/MaratonaDev">
-  <!-- trocar: 'Sthaynny/<<REpositorio>>' pelo caminho do seu respositório -->
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Sthaynny/localiza_devs">
 
-  <a href="https://github.com/Sthaynny/MaratonaDev/commits/master">
-  <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sthaynny/MaratonaDev">
-     <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
+  <a href="https://github.com/Sthaynny/localiza_devs/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sthaynny/localiza_devs">
   </a>
 
-  <a href="https://github.com/Sthaynny/MaratonaDev">
-   <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Sthaynny/MaratonaDev">
-     <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
-
+  <a href="https://github.com/Sthaynny/localiza_devs">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Sthaynny/localiza_devs">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
